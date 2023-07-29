@@ -1,0 +1,9 @@
+.nav .nav-link:nth-child(n+2){
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif, Tahoma, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+}
+.nav .nav-link:nth-child(n+2):hover {
+    color: white !important;
+    transition: 0.3s;
+}
